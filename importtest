@@ -1,13 +1,2 @@
-import ujson
-import time
-import MQTT
-import machine
-
-print("******2**********")
-print("******2**********")
-print("******2**********")
-65
-
-=======
-22
+2
 
