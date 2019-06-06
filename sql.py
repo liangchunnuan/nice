@@ -9,5 +9,6 @@ c.execute('''CREATE TABLE data
        SUM(weight)         INT    NOT NULL,
        SUM(weight*price)         INT    NOT NULL);''')
 print("Table created successfully")
+print("Table created successfully2222")
 conn.commit()
 conn.close()
